@@ -1,9 +1,4 @@
-ions.
- 152 changes: 152 additions & 0 deletions152  
-FloatTech.py
-Copied!
-Original file line number	Diff line number	Diff line change
-@@ -0,0 +1,152 @@
+
 #Code für das Boot VersionQ2.2024
 import time
 import math
